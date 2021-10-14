@@ -11,22 +11,7 @@
 <br>
 <img width="7%" align="left" alt="Github" src="https://user-images.githubusercontent.com/43540833/134823765-28abffbe-ecb8-4bc7-b86e-18ee460d958d.gif"/>
 
-```java
-      public class Asanka{
-        String name = "Asanka gamage👤"
-        current_edu = "SLIIT🎓"
-        currently_learning = "typescript with react"
-        fun_fact = "My life is paused on Sunday night🍻"
-        String[] hobbies = { 
-                "Coding🖥"
-                "Music🎧",
-                "Chiling🕺",
-                "Gaming🎮",
-                "Action & Adventure Movies🎥"
-                }
-      }
-
-  ```
+ 
 
 
   <img width="55%" align="center" alt="hetz github stats" src="https://github-readme-stats.vercel.app/api?username=asankagamage98&show_icons=true&hide_border=true&theme=radical"/>
