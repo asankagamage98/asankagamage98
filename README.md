@@ -1,6 +1,6 @@
+<h1 align="center">Hi there 👋,I'm Asanka Gamage </h1>
 <h1 align="center">
-    <h1 align="center">Hi there 👋,I'm Asanka Gamage </h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome+to+my+github+profile!;+I'm+a+fullstack+Developer!;" />
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome+to+my+github+profile!;+I'm+a+fullstack+Developer!;" />
 </h1>
 <h5 align="center">I'm Undergraduate at Sri Lanka Institute of Information Technology in Sri Lanka </h5>
 
