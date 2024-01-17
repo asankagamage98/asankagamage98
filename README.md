@@ -43,7 +43,7 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asankagamage98&theme=radical)
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+<div style="display: flex;  align-items: center; margin-top: 20px;">
     <img width="390" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asankagamage98&theme=radical" alt="streak stats"/>
 
 <a href="https://github.com/asankagamage98/github-readme-stats">
