@@ -4,7 +4,7 @@
 </h1>
 <h5 align="center">I'm Undergraduate at Sri Lanka Institute of Information Technology in Sri Lanka </h5>
   
-<div style="display: flex; justify-content: center;margin-top: 20px;">
+<div align="center">
     <a href="https://www.linkedin.com/in/asanka-gamage-3816211a0/"><img alt="Linkedin" title="Asanka gamage" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="https://www.facebook.com/profile.php?id=100008554757007"><img alt="Facebook" title="Asanka FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
     <a href="https://www.instagram.com/asankamadushan4666/"><img alt="Instagram" title="Asanka" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
