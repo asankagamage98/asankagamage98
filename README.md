@@ -1,8 +1,9 @@
 <h1 align="center">Hi there 👋,I'm Asanka Gamage </h1>
+<h5 align="center">I'm Undergraduate at Sri Lanka Institute of Information Technology in Sri Lanka </h5>
 <h1 align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Welcome+to+my+github+profile!;+I'm+a+fullstack+Developer!;" />
 </h1>
-<h5 align="center">I'm Undergraduate at Sri Lanka Institute of Information Technology in Sri Lanka </h5>
+
 
  <div align="center">
         <a href="https://www.linkedin.com/in/asanka-gamage-3816211a0/"><img alt="Linkedin" title="Asanka gamage"                src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
