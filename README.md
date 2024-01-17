@@ -44,9 +44,8 @@
 
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
-    <img width="390" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asankagamage98&theme=radical" alt="streak stats"/>
-    <img width="390" src="[[https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10](https://github-readme-streak-stats-salesp07.vercel.app/?user=asankagamage98&count_private=true&theme=react&border_radius=10)](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asankagamage98&theme=radical)" alt="streak stats"/>
-
+    <img width="450" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asankagamage98&theme=radical" alt="streak stats"/>
+    <img width="390" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asankagamage98&theme=radical " alt="streak stats"/>
 </div>
 
 
