@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋,I'm Asanka Gamage </h1>
 <h5 align="center">I'm Undergraduate at Sri Lanka Institute of Information Technology in Sri Lanka </h5>
 <h1 align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=40&duration=5000&lines=Welcome+to+my+github+profile!;+I'm+a+fullstack+Developer!;" />
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=0&duration=5000&lines=Welcome+to+my+github+profile!;+I'm+a+fullstack+Developer!;" />
 </h1>
 
 
