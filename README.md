@@ -41,7 +41,7 @@
 <code><img width="6%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img width="6%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 
-<div>
+<div  align="center">
     <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asankagamage98&theme=radical" alt="profile status"/>
 </div>
 
