@@ -42,10 +42,11 @@
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
     <img width="330"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asankagamage98&theme=radical " alt="streak stats"/>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/? username=asankagamage98&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-
+  
 </div>
 
+  <a>  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/? username=asankagamage98&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<a/>
 
  
 
