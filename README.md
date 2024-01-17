@@ -40,13 +40,14 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asankagamage98&theme=radical)
 
-<div style="display: flex; justify-content: space-between; margin-top: 20px; align-item: center; ">
-    <img width="330"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asankagamage98&theme=radical " alt="streak stats"/>
-  
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+    <img width="330" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asankagamage98&theme=radical" alt="streak stats"/>
+
 <a href="https://github.com/asankagamage98/github-readme-stats">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asankagamage98&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-<a/>
+        <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asankagamage98&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    </a>
 </div>
+
 
  
 
