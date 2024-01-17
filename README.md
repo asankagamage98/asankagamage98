@@ -39,7 +39,7 @@
 <code><img width="6%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
-    <img width="600" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asankagamage98&theme=radical" alt="streak stats"/>
+    <img width="550" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asankagamage98&theme=radical" alt="streak stats"/>
     <img width="330"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asankagamage98&theme=radical " alt="streak stats"/>
 </div>
 
