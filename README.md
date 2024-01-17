@@ -7,22 +7,14 @@
 
 
 <div align="center">
-    <a href="https://www.linkedin.com/in/asanka-gamage-3816211a0/"><img alt="Linkedin" title="Asanka gamage" 
-       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=100008554757007"><img alt="Facebook" title="Asanka FB" 
-       src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-    </a>
-    <a href="https://www.instagram.com/asankamadushan4666/"><img alt="Instagram" title="Asanka" 
-       src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a href="asankagamage1998@gmail.com"><img alt="Gmail" title="Asanka" src="https://img.shields.io/badge/Gmail-D14836?style=for-the- 
-       badge&logo=gmail&logoColor=white"></a>
-    <a href="https://t.me/Asanka_gamage"><img alt="Telegram" title="Asanka Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0? 
-       style=for-the-badge&logo=telegram&logoColor=white"></a>
-    <a href="https://twitter.com/home"><img alt="Twitter" title="thisara Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2? 
-       style=for-the-badge&logo=twitter&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/asanka-gamage-3816211a0/"><img alt="Linkedin" title="Asanka gamage" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://www.facebook.com/profile.php?id=100008554757007"><img alt="Facebook" title="Asanka FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+    <a href="https://www.instagram.com/asankamadushan4666/"><img alt="Instagram" title="Asanka" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="asankagamage1998@gmail.com"><img alt="Gmail" title="Asanka" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://t.me/Asanka_gamage"><img alt="Telegram" title="Asanka Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    <a href="https://twitter.com/home"><img alt="Twitter" title="thisara Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
+
 
 
 <img width="14%" align="left" alt="Github" src="https://user-images.githubusercontent.com/43540833/134823762-91291ff3-c093-434c-9841-f136d5151732.gif"/>
@@ -49,7 +41,10 @@
 <code><img width="6%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img width="6%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asankagamage98&theme=radical)
+<div>
+    <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asankagamage98&theme=radical" alt="profile status"/>
+</div>
+
 
 <div  align="center" >
     <img width="390" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asankagamage98&theme=radical" alt="streak stats"/>
