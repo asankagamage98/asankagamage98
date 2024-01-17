@@ -45,7 +45,7 @@
 
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asankagamage98&theme=radical" alt="streak stats"/>
-    <img width="310" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asankagamage98&theme=radical " alt="streak stats"/>
+    <img width="305" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asankagamage98&theme=radical " alt="streak stats"/>
 </div>
 
 
