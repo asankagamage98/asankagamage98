@@ -17,14 +17,11 @@
        src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a href="asankagamage1998@gmail.com"><img alt="Gmail" title="Asanka" src="https://img.shields.io/badge/Gmail-D14836?style=for-the- 
-       badge&logo=gmail&logoColor=white">
-    </a>
+       badge&logo=gmail&logoColor=white"></a>
     <a href="https://t.me/Asanka_gamage"><img alt="Telegram" title="Asanka Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0? 
-       style=for-the-badge&logo=telegram&logoColor=white">
-    </a>
+       style=for-the-badge&logo=telegram&logoColor=white"></a>
     <a href="https://twitter.com/home"><img alt="Twitter" title="thisara Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2? 
-       style=for-the-badge&logo=twitter&logoColor=white">
-    </a>
+       style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
 
 
