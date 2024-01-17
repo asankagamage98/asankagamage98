@@ -1,4 +1,7 @@
-## Hi there 👋 I'm Asanka, a developer 🚩
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Asanka+Gamage!;" />
+</h1>
 
 <a href="https://www.linkedin.com/in/asanka-gamage-3816211a0/"><img alt="Linkedin" title="Asanka gamage" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.facebook.com/profile.php?id=100008554757007"><img alt="Facebook" title="Asanka FB" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
@@ -37,11 +40,6 @@
 
 
 <a href="https://github.com/asankagamage98/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=asankagamage98&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<a href="https://github.com/asankagamage98/github-readme-activity-graph">
-  <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=asankagamage98&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</a>
-
 
 
 <a href="https://github.com/asankagamage98/github-readme-stats"><img alt=" Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asankagamage98&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
