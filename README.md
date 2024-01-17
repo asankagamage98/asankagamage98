@@ -42,10 +42,13 @@
 <a href="https://github.com/asankagamage98/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=asankagamage98&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 
+
 <div style="display: flex; justify-content: space-between; margin-top: 20px;">
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asankagamage98&theme=radical)
-     ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asankagamage98&theme=radical)
+    <img width="390" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asankagamage98&theme=radical" alt="streak stats"/>
+    <img width="390" src="[[https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10](https://github-readme-streak-stats-salesp07.vercel.app/?user=asankagamage98&count_private=true&theme=react&border_radius=10)](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asankagamage98&theme=radical)" alt="streak stats"/>
+
 </div>
+
 
  <a href="https://github.com/asankagamage98/github-readme-stats">
         <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asankagamage98&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
